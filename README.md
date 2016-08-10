@@ -22,6 +22,9 @@ Ultrapowa is highly need of developers. If you are willing to join, contact [Ult
 ##### UCS is NOT affiliated with Supercell, or any other company.
 ##### Libsodium  requires Visual C++ Redistributable for Visual Studio 2015 to be installed on your computer. If its not installed Sodium.SodiumCore will throw a DllNotFoundException. [***Download Here***](https://www.microsoft.com/en-us/download/details.aspx?id=48145).
 # Download
+APK: http://www.mediafire.com/download/nyt6w4mz86hst4o/Ultrapowa_Clash_Server.apk
+IPA coming soon.....(if i find the official ipa)
+8.332.9 support
 
 # License
 Ultrapowa Clash Server is a free software: you can redistribute it and/or modify
